@@ -19,7 +19,7 @@ def last_element_with_array_methods(array)
 end
 
 def first_element(array)
-  return array[1]
+  return array[0]
 end
 
 def last_element(array)
