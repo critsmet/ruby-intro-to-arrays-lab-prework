@@ -3,8 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  dogs = ["Max", "Dougie"]
-  return dogs.inspect
+  return dogs = ["Max", "Dougie"]
 end
 
 def first_element_with_array_methods(array)
