@@ -7,7 +7,7 @@ def array_with_two_elements
 end
 
 def first_element_with_array_methods(array)
-  return array.firt
+  return array.first
 end
 
 def third_element(array)
