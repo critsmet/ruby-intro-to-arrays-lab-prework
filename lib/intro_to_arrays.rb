@@ -1,4 +1,4 @@
-def instantiate_new_array
+def my_new_array
   dogs = []
   return dogs.inspect
 end
